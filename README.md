@@ -23,3 +23,8 @@ I moderne programvareutvikling er det avgjørende å kunne automatisere og strø
 - Oppdater README-filen i repoet ditt med en kort beskrivelse av arbeidsflyten og hvordan man konfigurerer repository secrets.
 
 Merk: Sørg for å følge beste praksis for sikkerhet når du håndterer hemmelige nøkler og tilgang til skyressurser. Denne oppgaven vil gi deg verdifull erfaring i å automatisere skyrelaterte oppgaver og forbedre prosessene i utviklingsprosjekter.
+
+
+
+
+
