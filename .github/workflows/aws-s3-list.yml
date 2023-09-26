@@ -11,7 +11,7 @@ jobs:
       - uses: keithweaver/aws-s3-github-action@v1.0.0
         with:
           command: ls
-          source: ./
+          source: s3://
           destination: s3://yourbucket/folder/local_file.txt
           aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
